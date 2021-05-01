@@ -1,1 +1,3 @@
-# HackerRank Python Solutions
+# HackerRank Python Practice 
+
+# Python 3 Solutions
